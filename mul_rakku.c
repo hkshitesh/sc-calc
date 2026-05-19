@@ -1,0 +1,1 @@
+printf("Rakku code from mul_rakku.c file\n")
